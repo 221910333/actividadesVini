@@ -1,0 +1,12 @@
+
+
+#form { text-align: right; }
+
+/* other styling */
+div {
+  background-color: #33475b;
+  border-radius: 10px;
+  color: white;
+  font-family: Avenir;
+  padding: 10px;
+}
